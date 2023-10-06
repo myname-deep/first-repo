@@ -1,3 +1,3 @@
 # first-repo
 
-Hello world 10 *
+Hello world 10 =
